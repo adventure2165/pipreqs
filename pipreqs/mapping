@@ -9,6 +9,7 @@ Banzai:Banzai_NGS
 BeautifulSoupTests:BeautifulSoup
 BioSQL:biopython
 BuildbotStatusShields:BuildbotEightStatusShields
+cv2:opencv-python
 ComputedAttribute:ExtensionClass
 Crypto:pycryptodome
 Cryptodome:pycryptodomex
